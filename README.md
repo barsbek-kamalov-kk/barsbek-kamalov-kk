@@ -2,7 +2,6 @@
 
 ## I'm beginner Frond-End Developer
 
-Youtube Videos
 
 ### Follow Me 
 
